@@ -51,5 +51,8 @@ CREATE TABLE metas_ahorro (
     FOREIGN KEY (id_usuario) REFERENCES usuarios(id_usuario) ON DELETE CASCADE
 );
 
-
+-- Perrogordo20
+CREATE TABLE metas_De_Retiro (
+    
+)
 
